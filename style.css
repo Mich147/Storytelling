@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    background-color: #283149;
+}
+h1{
+    font-size: 5rem;
+    color: #6abedb;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #16829f;
+}
+footer{
+    color: #dbedf3;
+    font-family: sans-serif;
+}
+
+.thunder{
+    background-image: url("img/thunder.jpg");
+}
+.rain{
+    background-image: url("img/rain.jpg");
+}
+.wind{
+    background-image: url("img/wind.jpg");
+}
+.cry{
+    background-image: url("img/cry.jpg"); 
+}
+.landslide{
+    background-image: url("img/landslide.webp"); 
+}
+.endstorm{
+    background-image: url("img/endstorm.jpg"); 
+}
+
+.story{
+    background-color: white;
+    outline: none;
+    border: 20px solid #2ad2f0;
+    border-radius: 25px;
+    font-size: 5rem;
+    font-family: 'Roboto', cursive;
+    font-weight: 900;
+    line-height: 5;
+    color: #052a61;
+    text-shadow: 3px 0 #d607f1;
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    margin: 15px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
